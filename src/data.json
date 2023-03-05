@@ -1,0 +1,38 @@
+[
+  {
+    "reachedGoal": "yes",
+    "metDeadline": "no",
+    "initiative": "yes",
+    "increase": "yes"
+  },
+  {
+    "reachedGoal": "yes",
+    "metDeadline": "no",
+    "initiative": "no",
+    "increase": "no"
+  },
+  {
+    "reachedGoal": "no",
+    "metDeadline": "no",
+    "initiative": "yes",
+    "increase": "no"
+  },
+  {
+    "reachedGoal": "yes",
+    "metDeadline": "yes",
+    "initiative": "yes",
+    "increase": "yes"
+  },
+  {
+    "reachedGoal": "no",
+    "metDeadline": "no",
+    "initiative": "no",
+    "increase": "no"
+  },
+  {
+    "reachedGoal": "no",
+    "metDeadline": "yes",
+    "initiative": "no",
+    "increase": "no"
+  }
+]
